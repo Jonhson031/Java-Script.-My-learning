@@ -1,7 +1,9 @@
-﻿# JavaScript Learning & Practice Repository 🚀
+# JavaScript Learning & Practice Repository 🚀
 
 This repository contains my JavaScript learning notes, code examples, and practice projects.
 It documents my progress from JavaScript fundamentals to advanced concepts, modern syntax, and real-world applications.
+
+I have fully completed the **Udemy course "The Complete JavaScript Course 2025: From Zero to Expert!" by Jonas Schmedtmann**, which this repository closely follows and expands upon with practice projects.
 
 The goal of this repository is to build a strong JavaScript foundation, understand how JavaScript works behind the scenes, and apply concepts through hands-on projects.
 
@@ -92,22 +94,21 @@ The goal of this repository is to build a strong JavaScript foundation, understa
 ---
 
 ### ✅ Object-Oriented Programming (OOP)
+- Constructor functions and the `new` operator
+- Prototypes and the prototype chain
+- Prototypal inheritance
+- Inheritance between “classes” (ES5 & ES6)
+- Prototypal inheritance on built-in objects
+- `Object.create()` pattern
 - ES6 classes
-- Public vs private fields
-- `_private` convention vs `#private`
-- Inheritance
+- Instance properties and methods
+- Getters and setters
+- Public vs private fields (`_` convention and `#private`)
 - Encapsulation
-- MVC architecture basics
-- Publisher–Subscriber pattern
-
----
-
-### ✅ Functional Programming
-- Immutability
-- Declarative vs imperative code
-- FP with array methods
-- FP concepts applied to async/await
-- FP patterns used in React
+- Abstraction
+- Polymorphism
+- MVC architecture fundamentals
+- Publisher–Subscriber (Observer) pattern
 
 ---
 
@@ -138,3 +139,4 @@ Some code may be experimental or simplified to focus on understanding specific c
 **Maksym Yaremko**  
 
 Aspiring Web Developer  
+
