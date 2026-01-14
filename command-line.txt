@@ -1,0 +1,28 @@
+1. dir (directory). Shows the content of the current folder
+2. cd - Change directory (using .. go up )
+3. clear - Clear the console
+4. mkdir - to create new folder
+5. type > file.name - to create new file
+6. del file.name - to delete file
+6. mv file.name ./(folder to move) - to moves files
+7. rmdir folder.name - to delete folder
+8. npx parcel index.html - install parcel locally (the best way).
+9. npm init - create package.json
+10. npm i parcel -g -- install parcel globally.
+11. npm i parcel -D -- install parcel
+
+
+
+steps to start new project with parcel:
+1. create package.json
+npm init - create package.json
+2. In package.json:
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+3. instal parcel
+npm i parcel -D -- install parcel
+4. start running parcel
+npm run start
+
