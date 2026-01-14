@@ -4,6 +4,7 @@ This repository contains my JavaScript learning notes, code examples, and practi
 It documents my progress from JavaScript fundamentals to advanced concepts, modern syntax, and real-world applications.
 
 I have fully completed the **Udemy course "The Complete JavaScript Course 2025: From Zero to Expert!" by Jonas Schmedtmann**, which this repository closely follows and expands upon with practice projects.
+![JavaScript Certificate](![JavaScript Certificate](images/certificate.jpg))
 
 The goal of this repository is to build a strong JavaScript foundation, understand how JavaScript works behind the scenes, and apply concepts through hands-on projects.
 
@@ -139,4 +140,5 @@ Some code may be experimental or simplified to focus on understanding specific c
 **Maksym Yaremko**  
 
 Aspiring Web Developer  
+
 
